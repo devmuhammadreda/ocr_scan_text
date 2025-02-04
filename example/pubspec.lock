@@ -204,18 +204,18 @@ packages:
     dependency: transitive
     description:
       name: google_mlkit_commons
-      sha256: "7e9a6d6e66b44aa8cfe944bda9bc3346c52486dd890ca49e5bc98845cda40d7f"
+      sha256: "42c31500be3aba08bcc2cf45d5af648affc40e46684f437b8383084657e982cf"
       url: "https://pub.dev"
     source: hosted
-    version: "0.9.0"
+    version: "0.4.0"
   google_mlkit_text_recognition:
     dependency: transitive
     description:
       name: google_mlkit_text_recognition
-      sha256: e7609cec8de3022680a36ead8a8bafa9fd2360ea018a728feaad12dcb0e3c177
+      sha256: "90a56bf4b6abb90421cb95dc896c66ba7c5ae0e4bbdd4ee07d2a4f259b9e5bda"
       url: "https://pub.dev"
     source: hosted
-    version: "0.14.0"
+    version: "0.8.1"
   http:
     dependency: transitive
     description:
